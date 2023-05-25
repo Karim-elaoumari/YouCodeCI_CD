@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-05-15T18:21:57.000Z",
+      "fileName": "triggers/FileTrigger.trigger",
+      "fullName": "FileTrigger",
+      "id": "01q8d000000N3sNAAS",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-05-17T10:18:03.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-05-22T09:01:15.000Z",
+      "fileName": "triggers/oppNewTrigger.trigger",
+      "fullName": "oppNewTrigger",
+      "id": "01q8d000000N4axAAC",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-05-22T22:25:36.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-04-18T15:18:46.000Z",
+      "fileName": "triggers/AccTrigger.trigger",
+      "fullName": "AccTrigger",
+      "id": "01q8d000000MzoXAAS",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-05-22T09:14:04.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

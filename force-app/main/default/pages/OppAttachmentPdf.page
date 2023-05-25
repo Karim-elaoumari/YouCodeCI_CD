@@ -1,0 +1,18 @@
+<apex:page renderAs="advanced_pdf"  controller="OppAttachementPdfController">
+    <apex:pageBlock title="Opportunity Products">
+        <apex:pageBlockTable value="{!opportunityProducts}" var="product">
+            <apex:column headerValue="Product Name">
+                <apex:outputText value="{!product.Name}" />
+            </apex:column>
+            <apex:column headerValue="Quantity">
+                <apex:outputText value="{!product.Quantity}" />
+            </apex:column>
+            <apex:column headerValue="Unit Price">
+                <apex:outputText value="{!product.UnitPrice}" />
+            </apex:column>
+            <apex:column headerValue="Total Price">
+                <apex:outputText value="{!product.TotalPrice}" />
+            </apex:column>
+        </apex:pageBlockTable>
+    </apex:pageBlock>
+</apex:page>

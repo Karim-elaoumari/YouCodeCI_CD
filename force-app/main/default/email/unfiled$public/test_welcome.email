@@ -1,0 +1,9 @@
+Dear {!Contact.FirstName} {!Contact.LastName},
+
+the Opportunity    {!Opportunity.Name}  has been closed Won  Now 
+
+the Amout in MAD :  {!Opportunity.Amount} 
+the Amount in USD :  {!Opportunity.Amount_USD__c}
+Exchange Rate :  {!Opportunity.ExchangeRate__c}
+
+Best Regards,

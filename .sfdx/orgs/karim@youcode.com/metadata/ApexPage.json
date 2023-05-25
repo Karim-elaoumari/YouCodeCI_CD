@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-04-26T13:00:54.000Z",
+      "fileName": "pages/buttonPrint.page",
+      "fullName": "buttonPrint",
+      "id": "0668d000007YMa0AAG",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-04-26T13:01:28.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexPage"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-04-26T12:58:55.000Z",
+      "fileName": "pages/detailsAccount.page",
+      "fullName": "detailsAccount",
+      "id": "0668d000007YMZvAAO",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-05-22T15:46:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexPage"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-04-26T08:36:28.000Z",
+      "fileName": "pages/listOfCases.page",
+      "fullName": "listOfCases",
+      "id": "0668d000007YLyCAAW",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-04-26T10:03:12.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexPage"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-05-22T15:48:48.000Z",
+      "fileName": "pages/OppAttachmentPdf.page",
+      "fullName": "OppAttachmentPdf",
+      "id": "0668d000007ZD6DAAW",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-05-23T08:19:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexPage"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "2023-04-26T09:01:09.000Z",
+      "fileName": "pages/deactivateAccount.page",
+      "fullName": "deactivateAccount",
+      "id": "0668d000007YLyRAAW",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "2023-04-26T12:49:09.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexPage"
+    }
+  ]
+}

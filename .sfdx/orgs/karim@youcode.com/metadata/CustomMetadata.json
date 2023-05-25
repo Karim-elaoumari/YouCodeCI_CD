@@ -1,0 +1,70 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Drive_Object.Opportunity.md",
+      "fullName": "Drive_Object.Opportunity",
+      "id": "m008d000000WtOGAA0",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Drive_Object.Case.md",
+      "fullName": "Drive_Object.Case",
+      "id": "m008d000000WtOVAA0",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Drive_Object.Contact.md",
+      "fullName": "Drive_Object.Contact",
+      "id": "m008d000000WtOLAA0",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Drive_Object.Lead.md",
+      "fullName": "Drive_Object.Lead",
+      "id": "m008d000000WtOQAA0",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    },
+    {
+      "createdById": "0058d000006cm8jAAA",
+      "createdByName": "Karim El Aoumari",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "customMetadata/Drive_Object.Account.md",
+      "fullName": "Drive_Object.Account",
+      "id": "m008d000000WtOBAA0",
+      "lastModifiedById": "0058d000006cm8jAAA",
+      "lastModifiedByName": "Karim El Aoumari",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "CustomMetadata"
+    }
+  ]
+}
